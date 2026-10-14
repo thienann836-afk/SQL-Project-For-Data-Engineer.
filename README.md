@@ -1,2 +1,3 @@
 # SQL-Project-For-Data-Engineer.
-This is my first time I using github.
+This is my first time I am using github.
+Hello plannet!
